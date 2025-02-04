@@ -1,0 +1,25 @@
+{
+  "name": "hng_number_classification-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Math",
+    "Node.js",
+    "Express.js",
+    "CORS",
+    "API"
+  ],
+  "author": "Jude Kimathi",
+  "license": "MIT",
+  "description": "An API that takes a number and returns interesting mathematical properties about it, along with a fun fact.",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
