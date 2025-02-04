@@ -47,7 +47,3 @@ npm run dev
 ```
 
 The API will be available at `http://localhost:3000`
-
-## Viewing the output
-
-Alternatively, you can view the project by clicking the [link](https://)
